@@ -12,6 +12,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     min-height: 100vh;
+    margin: 1%;
 }
 .header{
     padding: 55px 0px
@@ -35,7 +36,6 @@ body{
 }
 .coming {
     text-align: center;
-    padding-top: 140px;
 }
 .coming h2{
     color: #f15c58;
@@ -57,44 +57,9 @@ body{
 #countdown{
     margin-top: 50px
 }
-.email{
-    text-align: center;
-    padding-top: 120px
-}
-.email p {
-  color: #8f8686;
-  font-family: "Raleway",sans-serif;
-  font-size: 21px;
-  margin: 20px 0 50px;
-  font-weight: 600;
-}
-.email input[type="email"] {
-    background: #323131;
-    text-transform: uppercase;
-    border: none;
-    color: #fff;
-    width: 390px;
-    padding: 15px;
-    font-size: 20px
-}
-.email input[type="submit"] {
-  background: #f15c58 none repeat scroll 0 0;
-  border: medium none;
-  color: #fff;
-  font-size: 22px;
-  margin-left: -4px;
-  padding: 15px;
-  width: 115px;
-}
-.email input[placeholder] {
-  color: #8f8686;
-  font-size: 22px;
-  font-weight: 400;
-  text-transform: lowercase;
-}
 
 .social-icon{
-    margin-top: 400px;
+    margin-top: -10%;
 }
 .icon {
     width: 165px;
@@ -103,7 +68,7 @@ body{
 .icon i{
     color: #fff;
     padding: 10px;
-    font-size: 30px
+    font-size: 30px;
 }
 .countDays{
     position: relative;

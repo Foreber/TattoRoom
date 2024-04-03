@@ -11,29 +11,10 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 100vh;
+    min-height: 90vh;
     margin: 1%;
 }
-.header{
-    padding: 55px 0px
-}
-.menu{
-    float: right
-}
-.menu li{
-    display: inline-block
-}
-.menu ul li a{
-    font-size: 21px;
-    font-weight: 600;
-    color: #fff;
-    text-decoration: none;
-    padding: 0px 20px;
-    font-family: 'Raleway', sans-serif;
-}
-.menu ul li a:hover{
-    color: #12c2a7
-}
+
 .coming {
     text-align: center;
 }
@@ -58,9 +39,7 @@ body{
     margin-top: 50px
 }
 
-.social-icon{
-    margin-top: -30%;
-}
+
 .icon {
     width: 165px;
     margin: 0px auto;
